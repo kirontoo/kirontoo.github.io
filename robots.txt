@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://kirontoo.github.io/sitemap.xml
+Host: https://kirontoo.github.io
