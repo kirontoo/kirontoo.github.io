@@ -1,10 +1,9 @@
 ---
 date: '2020-09-21'
 title: 'Url Shortly'
-cover: './demo.png'
 github: 'https://github.com/kirontoo/url-shortly'
+cover: './demo.png'
 external: 'https://url-shortly-kirontoo.netlify.app'
-cta: ''
 tech:
   - ReactJS
   - SASS/SCSS
