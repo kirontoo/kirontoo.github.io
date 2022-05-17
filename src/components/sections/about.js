@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'Typescript', 'Svelte', 'React', 'TailwindCSS'];
+  const skills = ['JavaScript (ES6+)', 'Typescript', 'Svelte', 'React', 'TailwindCSS', 'Go'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -142,7 +142,7 @@ const About = () => {
             </p>
 
             <p>
-              Currently, I work on a Esports tournament website called{' '}
+              Currently, I work on a Esports tournament project called{' '}
               <a href="https://atlanticesportsnj.com/">Atlantic Esports</a>.{' '}
             </p>
 
