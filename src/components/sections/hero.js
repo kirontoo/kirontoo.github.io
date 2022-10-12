@@ -72,7 +72,7 @@ const Hero = () => {
       href="https://www.atlanticesportsnj.com"
       target="_blank"
       rel="noreferrer">
-      Check out my current project!
+      checkout what I'm working on now
     </a>
   );
 

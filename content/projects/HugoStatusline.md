@@ -8,7 +8,6 @@ tech:
   - SASS/SCSS
   - Javascript
 company: ''
-showInProjects: true
 ---
 
 A custom retro blogging theme made with the static website generator [Hugo](https://gohugo.io)

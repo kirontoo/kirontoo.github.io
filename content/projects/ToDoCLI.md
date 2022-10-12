@@ -4,7 +4,7 @@ title: 'Todo CLI - td'
 github: 'https://github.com/kirontoo/td'
 ios: ''
 android: ''
-external: ''
+external: 'https://github.com/kirontoo/td'
 tech:
   - Go
 company: ''

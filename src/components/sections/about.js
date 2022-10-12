@@ -136,9 +136,9 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Amy and I enjoy creating things for the web and learning new things.
-              My interest in web development began in 2019 when I decided to take a course out of
-              curiosity and from then on, I have continued learning more and more about the web.
+              Hello! My name is Amy and building software that makes people's lives easier is what I
+              do. I studied computer science intending to build fun tools that automate and simplify
+              complicated tasks into easy-to-use interfaces.
             </p>
 
             <p>
