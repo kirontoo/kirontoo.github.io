@@ -7,9 +7,7 @@ range: 'June 2019'
 url: 'https://enklu.com'
 ---
 
-- Assist in Hololens gesture and spacial anchor calibration
-- Assist Enklu employees in updating the operating system and install the
-  latest version of the Enklu app on Microsoft HoloLens devices
-- Assist in the operations during E3 including technical assistance to insure
-  the smooth operation of Hololenses, customer experience assistance, and any
-  other task related to the successful operation of the E3 event
+- Interacted with customers to resolve Hololens device issues and answer questions
+- Assisted in operations during E3 Expo 2019 including technical assistance to ensure smooth operations
+- Updated operating systems, and installed software on Microsoft Hololens devices}
+- Assisted in Hololens gesture and spacial anchor calibration
