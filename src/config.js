@@ -10,13 +10,17 @@ module.exports = {
     //   name: 'Instagram',
     //   url: 'https://www.instagram.com/bchiang7',
     // },
-    // {
-    //   name: 'Twitter',
-    //   url: 'https://twitter.com/bchiang7',
-    // },
+    {
+      name: 'Twitter',
+      url: 'https://twitter.com/rxkironto',
+    },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/amyndang',
+      url: 'https://www.linkedin.com/in/amy-nguyen-dang',
+    },
+    {
+      name: 'Blog',
+      url: 'https://blog.rxkiro.xyz',
     },
     // {
     //   name: 'Codepen',

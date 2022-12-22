@@ -5,9 +5,9 @@ module.exports = {
     title: 'Amy Nguyen-Dang',
     description:
       'Amy Nguyen-Dang is a frontend developer who loves learning all things tech and building keyboards',
-    siteUrl: 'https://kirontoo.github.io', // No trailing slash allowed! TODO:
+    siteUrl: 'https://rxkiro.xyz', // No trailing slash allowed! TODO:
     image: '/og.png', // Path to your image you placed in the 'static' folder TODO:
-    twitterUsername: '', // TODO:
+    twitterUsername: 'rxkironto', // TODO:
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'BrittanyChiang',
-        short_name: 'BrittanyChiang',
+        name: 'AmyNguyenDang',
+        short_name: 'AmyNguyenDang',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
