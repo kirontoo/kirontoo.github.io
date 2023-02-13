@@ -10,7 +10,7 @@ tech:
   - TailwindCSS
   - Typescript
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
 A Esports tournament web app that allows gamers to compete and win prizes.
