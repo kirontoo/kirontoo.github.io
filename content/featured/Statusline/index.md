@@ -9,6 +9,7 @@ tech:
   - Hugo
   - SASS/SCSS
   - Javascript
+featured: false
 ---
 
 A custom retro blogging theme made with the static website generator [Hugo](https://gohugo.io)
