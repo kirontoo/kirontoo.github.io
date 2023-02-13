@@ -323,6 +323,7 @@ const Featured = () => {
               github
               external
               cta
+              featured
             }
             html
           }
@@ -355,10 +356,12 @@ const Featured = () => {
         {featuredProjects &&
           featuredProjects.map(({ node }, i) => {
             const { frontmatter, html } = node;
-            const { external, title, tech, github, cover, cta } = frontmatter;
+            const { external, title, tech, github, cover, cta, featured } = frontmatter;
             const image = getImage(cover);
 
-            return (
+            return !featured ? (
+              <></>
+            ) : (
               <StyledProject key={i} ref={el => (revealProjects.current[i] = el)}>
                 <div className="project-content">
                   <div>
