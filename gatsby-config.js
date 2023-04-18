@@ -4,10 +4,10 @@ module.exports = {
   siteMetadata: {
     title: 'Amy Nguyen-Dang',
     description:
-      'Amy Nguyen-Dang is a frontend developer who loves learning all things tech and building keyboards',
-    siteUrl: 'https://rxkiro.xyz', // No trailing slash allowed! TODO:
-    image: '/og.png', // Path to your image you placed in the 'static' folder TODO:
-    twitterUsername: 'rxkironto', // TODO:
+      'Amy Nguyen-Dang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
+    siteUrl: 'https://rxkiro.xyz', // No trailing slash allowed!
+    image: '/og.png', // Path to your image you placed in the 'static' folder
+    twitterUsername: 'rxkironto', //
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'AmyNguyenDang',
-        short_name: 'AmyNguyenDang',
+        name: 'Amy Nguyen-Dang',
+        short_name: 'Amy Nguyen-Dang',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
@@ -56,6 +56,13 @@ module.exports = {
       options: {
         name: `projects`,
         path: `${__dirname}/content/projects`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `posts`,
+        path: `${__dirname}/content/featured`,
       },
     },
     {
