@@ -1,5 +1,5 @@
 ---
-date: '2023-01-27'
+date: '3'
 title: 'eCommerce - Mercury'
 cover: './mercury.png'
 github: 'https://github.com/kirontoo/mercury'

@@ -1,5 +1,5 @@
 ---
-date: '2020-09-21'
+date: '3'
 title: 'Url Shortly'
 github: 'https://github.com/kirontoo/url-shortly'
 cover: './urlshortly.png'

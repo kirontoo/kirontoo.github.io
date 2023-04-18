@@ -1,5 +1,5 @@
 ---
-date: '2021-05-01'
+date: '1'
 title: 'Atlantic Esports'
 cover: './aes.png'
 github: ''

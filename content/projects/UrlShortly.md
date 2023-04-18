@@ -9,7 +9,7 @@ tech:
   - ReactJS
   - SASS/SCSS
   - Typescript
-showInProjects: false
+showInProjects: true
 ---
 
 A small project that allows users to shorten urls.

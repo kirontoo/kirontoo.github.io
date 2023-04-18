@@ -8,7 +8,7 @@ tech:
   - Bootstrap
   - Javascript
 company: ''
-showInProjects: false
+showInProjects: true
 ---
 
 A mobile friendly single page app that allows users to color images using a color picker or a pre-set color palette
