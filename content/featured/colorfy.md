@@ -1,7 +1,7 @@
 ---
 date: '2021-11-16'
 title: 'Mintbean Hackathon 2021 - Colorfy'
-cover: './demo.png'
+cover: './colorfy.png'
 github: 'https://github.com/kirontoo/colorfy'
 external: 'https://kirontoo.github.io/colorfy'
 cta: ''

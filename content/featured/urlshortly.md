@@ -2,7 +2,7 @@
 date: '2020-09-21'
 title: 'Url Shortly'
 github: 'https://github.com/kirontoo/url-shortly'
-cover: './demo.png'
+cover: './urlshortly.png'
 external: 'https://url-shortly-kirontoo.netlify.app'
 tech:
   - ReactJS

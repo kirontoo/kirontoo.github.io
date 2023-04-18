@@ -1,7 +1,7 @@
 ---
 date: '2021-05-19'
 title: 'Hugo Theme - Statusline'
-cover: './demo.png'
+cover: './statusline.png'
 github: 'https://github.com/kirontoo/hugo-theme-statusline'
 external: 'https://hugo-statusline-theme.netlify.app'
 cta: ''

@@ -1,7 +1,7 @@
 ---
 date: '2023-01-27'
 title: 'eCommerce - Mercury'
-cover: './demo.png'
+cover: './mercury.png'
 github: 'https://github.com/kirontoo/mercury'
 external: 'https://mercury.rxkiro.xyz'
 tech:

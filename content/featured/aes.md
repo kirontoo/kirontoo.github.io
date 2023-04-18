@@ -1,7 +1,7 @@
 ---
 date: '2021-05-01'
 title: 'Atlantic Esports'
-cover: './demo2.png'
+cover: './aes.png'
 github: ''
 external: 'https://atlanticesportsnj.com/'
 cta: ''
