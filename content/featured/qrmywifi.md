@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '3'
 title: 'QRMyWifi'
 cover: './qrmywifi.png'
 github: 'https://github.com/kirontoo/qrmywifi'

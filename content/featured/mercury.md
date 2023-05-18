@@ -9,7 +9,7 @@ tech:
   - Material UI Library
   - Sanity CMS
   - Stripe
-featured: true
+featured: false
 ---
 
 A simple eCommerce website backed by Sanity CMS and Stripe to build a seamless
