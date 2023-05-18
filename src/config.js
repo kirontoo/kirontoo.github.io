@@ -6,13 +6,9 @@ module.exports = {
       name: 'GitHub',
       url: 'https://github.com/kirontoo',
     },
-    // {
-    //   name: 'Instagram',
-    //   url: 'https://www.instagram.com/bchiang7',
-    // },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/rxkironto',
+      url: 'https://twitter.com/rwxamy',
     },
     {
       name: 'Linkedin',
@@ -22,10 +18,6 @@ module.exports = {
       name: 'Blog',
       url: 'https://blog.rxkiro.xyz',
     },
-    // {
-    //   name: 'Codepen',
-    //   url: 'https://codepen.io/bchiang7',
-    // },
   ],
 
   navLinks: [
