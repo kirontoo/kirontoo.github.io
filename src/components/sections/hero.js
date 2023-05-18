@@ -59,7 +59,7 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Amy Nguyen-Dang</h2>;
+  const two = <h2 className="big-heading">Amy</h2>;
   const three = <h3 className="big-heading">I build things for the web.</h3>;
   const four = (
     <>
@@ -71,7 +71,8 @@ const Hero = () => {
       className="email-link"
       href="https://www.atlanticesportsnj.com"
       target="_blank"
-      rel="noreferrer">
+      rel="noreferrer"
+    >
       checkout what I'm working on now
     </a>
   );
