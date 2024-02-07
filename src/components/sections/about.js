@@ -144,14 +144,10 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Amy and building software that makes people's lives easier is what I
-              do. I studied computer science intending to build fun tools that automate and simplify
-              complicated tasks into easy-to-use interfaces.
-            </p>
-
-            <p>
-              Currently, I work on a Esports tournament project called{' '}
-              <a href="https://atlanticesportsnj.com/">Atlantic Esports</a>.{' '}
+              Hey there, my name is Amy and I love building software that makes our lives easier. I
+              studied computer science intending to build fun tools that automate and simplify
+              complicated tasks into easy-to-use interfaces. My favorite things to do everyday are
+              to learn random skills and jam out to metal as I code.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

@@ -61,7 +61,7 @@ const Contact = () => {
 
       <p>
         I'm always open to making new connections. Whether you have a question or just want to talk
-        keyboards, feel free to contact me and I’ll try my best to get back to you!
+        guitars, feel free to contact me and I’ll try my best to get back to you!
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>

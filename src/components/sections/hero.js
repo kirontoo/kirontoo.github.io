@@ -59,21 +59,16 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Amy</h2>;
+  const two = <h2 className="big-heading">Amy Nguyen-Dang</h2>;
   const three = <h3 className="big-heading">I build things for the web.</h3>;
   const four = (
     <>
-      <p>I am a frontend developer who loves learning all things tech and building keyboards.</p>
+      <p>I am a software engineer who loves learning all things tech and guitar.</p>
     </>
   );
   const five = (
-    <a
-      className="email-link"
-      href="https://www.atlanticesportsnj.com"
-      target="_blank"
-      rel="noreferrer"
-    >
-      checkout what I'm working on now
+    <a className="email-link" href="https://blog.amyndang.me" target="_blank" rel="noreferrer">
+      checkout my blog
     </a>
   );
 
