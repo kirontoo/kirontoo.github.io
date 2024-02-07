@@ -9,5 +9,5 @@ url: 'https://enklu.com'
 
 - Interacted with customers to resolve Hololens device issues and answer questions
 - Assisted in operations during E3 Expo 2019 including technical assistance to ensure smooth operations
-- Updated operating systems, and installed software on Microsoft Hololens devices}
+- Updated operating systems, and installed software on Microsoft Hololens device
 - Assisted in Hololens gesture and spacial anchor calibration
