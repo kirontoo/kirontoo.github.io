@@ -11,4 +11,4 @@ tech:
 showInProjects: true
 ---
 
-A simple twitch chat bot for my streams.
+A custom twitch chat bot for my streams.
