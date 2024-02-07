@@ -7,16 +7,12 @@ module.exports = {
       url: 'https://github.com/kirontoo',
     },
     {
-      name: 'Twitter',
-      url: 'https://twitter.com/rwxamy',
-    },
-    {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/amy-nguyen-dang',
+      url: 'https://www.linkedin.com/in/amyndang/',
     },
     {
       name: 'Blog',
-      url: 'https://blog.rxkiro.xyz',
+      url: 'https://blog.amyndang.me',
     },
   ],
 
